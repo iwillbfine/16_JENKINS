@@ -1,6 +1,6 @@
 package com.iwillbfine.jenkinsproject.service;
 
-import com.iwillbfine.bootproject.dto.CalculatorDTO;
+import com.iwillbfine.jenkinsproject.dto.CalculatorDTO;
 import org.springframework.stereotype.Service;
 
 @Service

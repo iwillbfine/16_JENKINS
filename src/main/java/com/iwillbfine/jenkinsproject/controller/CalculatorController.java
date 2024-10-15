@@ -1,7 +1,7 @@
 package com.iwillbfine.jenkinsproject.controller;
 
-import com.iwillbfine.bootproject.dto.CalculatorDTO;
-import com.iwillbfine.bootproject.service.CalculatorService;
+import com.iwillbfine.jenkinsproject.dto.CalculatorDTO;
+import com.iwillbfine.jenkinsproject.service.CalculatorService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
